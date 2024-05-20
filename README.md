@@ -25,12 +25,3 @@ The dataset used in this project is sourced from Kaggle and can be found [here](
 - `DFA` - Signal fractal scaling exponent
 - `spread1`, `spread2`, `PPE` - Nonlinear measures of fundamental frequency variation
 
-## Project Structure
-
-The repository is organized as follows:
-
-- `data/` - Contains the dataset file
-- `notebooks/` - Jupyter notebooks for data exploration, preprocessing, and model training
-- `scripts/` - Python scripts for data preprocessing and model training
-- `models/` - Saved models and relevant metadata
-- `README.md` - Project overview and instructions
